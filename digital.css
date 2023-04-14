@@ -1,0 +1,22 @@
+body{
+    margin: 20px;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    
+}
+.card{
+    width:700px ;
+    margin-left:auto ;
+    margin-right: auto;
+    font-size:25px ;
+    /*border: 1px dotted blue;*/
+    padding:20px ;
+    display:flex;
+    background-color:rgb(97, 198, 188);
+    border-bottom:5px solid purple ;
+    justify-content:space-around ;
+}
+.profile{
+    width:150px ;
+     
+}
